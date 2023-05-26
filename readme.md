@@ -44,4 +44,9 @@ Utilisez le protocole SSH pour transférer les sauvegardes depuis la machine Kal
 
 ## Restauration des données sauvegardées
 Prévoyez une méthode pour restaurer les données à partir des sauvegardes. Assurez-vous de tester la procédure de restauration pour vérifier son bon fonctionnement.
+## Comment marche la sauvegarde 
+La sauvegarde se fait automatiquement tous les Lundi et Vendredi a 6h du matin .
+Si la personne souhaite la faire automatiquement , la personne devra lancer le script backup.sh (sur la machine cliente) avec la commande `sh backup.sh` puis renter le mot de passe de la machine hote `kali` dans notre cas.
 
+## Comment faire la restauration
+la personne devra lancer le script backup.sh (sur la machine cliente) avec la commande `sh restore.sh` depuis la machine cliente dans notre cas.
