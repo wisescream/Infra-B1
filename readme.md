@@ -102,16 +102,3 @@ Utilisez le protocole SSH pour transférer les sauvegardes depuis la machine Kal
 
 ## Restauration des données sauvegardées
 Prévoyez une méthode pour restaurer les données à partir des sauvegardes. Assurez-vous de tester la procédure de restauration pour vérifier son bon fonctionnement.
-
-## Bonus
-Pour obtenir des points bonus, vous pouvez ajouter les fonctionnalités suivantes au projet :
-- Chiffrement des sauvegardes pour une sécurité supplémentaire.
-- Rotation des sauvegardes pour conserver uniquement un nombre limité de copies.
-- Surveillance et notification des erreurs de sauvegarde.
-- Intégration d'un système de journalisation pour enregistrer les activités de sauvegarde.
-
----
-
-_Note : Assurez-vous de fournir des instructions détaillées dans le fichier README.md, y compris les commandes, les configurations et les étapes à suivre pour reproduire le projet. Indiquez également les dépendances logicielles nécessaires et les versions compatibles._
-
-_Bonne chance avec votre projet de sauvegarde ! Si vous avez des questions supplémentaires, n'hésitez pas à les poser._
