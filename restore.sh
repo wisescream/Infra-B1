@@ -1,0 +1,1 @@
+rsync -avzP kali@192.168.248.128:/home/kali/Back-up/Back-up/Back-up$(date +-%d-%b-%Y).tar.gz /home/user/Work
